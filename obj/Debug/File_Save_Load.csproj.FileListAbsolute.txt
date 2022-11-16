@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\File_Save_Load\File_Save_Load\bin\Debug\File_Save_Load.exe.config
+C:\Users\User\source\repos\File_Save_Load\File_Save_Load\bin\Debug\File_Save_Load.exe
+C:\Users\User\source\repos\File_Save_Load\File_Save_Load\bin\Debug\File_Save_Load.pdb
+C:\Users\User\source\repos\File_Save_Load\File_Save_Load\obj\Debug\File_Save_Load.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\File_Save_Load\File_Save_Load\obj\Debug\File_Save_Load.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\File_Save_Load\File_Save_Load\obj\Debug\File_Save_Load.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\File_Save_Load\File_Save_Load\obj\Debug\File_Save_Load.exe
+C:\Users\User\source\repos\File_Save_Load\File_Save_Load\obj\Debug\File_Save_Load.pdb
